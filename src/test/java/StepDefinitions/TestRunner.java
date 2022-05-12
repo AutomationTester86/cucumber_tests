@@ -12,7 +12,7 @@ glue ={"StepDefinitions"},
         "pretty","html:target/HtmlReports/report.html",
          "json:target/JSONReports/report.json",
         "junit:target/JUnitReports/report.xml"}
-//        tags ="@smoketest"
+
         )
 public class TestRunner {
 
